@@ -4,6 +4,8 @@
 
 A userscript that rotates iPhone Live Photos in the [Immich](https://immich.app) web UI — photo and motion video together, losslessly. Immich's own editor can't do this ([immich#28480](https://github.com/immich-app/immich/issues/28480)).
 
+<p><img src="docs/demo-portrait.gif" width="49%" alt="Rotating a portrait Live Photo"> <img src="docs/demo-landscape.gif" width="49%" alt="Rotating a landscape Live Photo"></p>
+
 ## Install
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/). In Chrome, also enable **Allow User Scripts** on the extension's details page.

@@ -4,6 +4,8 @@
 
 一个油猴脚本：在 [Immich](https://immich.app) 网页端旋转 iPhone 实况照片，照片和动态视频一起转，无损。Immich 自带的编辑器做不到（[immich#28480](https://github.com/immich-app/immich/issues/28480)）。
 
+<p><img src="docs/demo-portrait.gif" width="49%" alt="旋转竖拍的实况照片"> <img src="docs/demo-landscape.gif" width="49%" alt="旋转横拍的实况照片"></p>
+
 ## 安装
 
 1. 装 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)。Chrome 还要在扩展详情页打开「允许用户脚本」。
