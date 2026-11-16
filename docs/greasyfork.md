@@ -1,6 +1,6 @@
 Rotate iPhone Live Photos in the [Immich](https://immich.app) web UI — photo and motion video together, losslessly. Immich's own editor can't do this ([immich#28480](https://github.com/immich-app/immich/issues/28480)).
 
-![Rotating a Live Photo](https://raw.githubusercontent.com/vinci7/immich-live-rotate/main/docs/demo-portrait.gif)
+![Rotating a Live Photo](https://raw.githubusercontent.com/vinci7/immich-live-rotate/main/docs/demo-landscape.gif)
 
 ## Use
 
